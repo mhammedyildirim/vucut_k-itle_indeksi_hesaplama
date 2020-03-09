@@ -1,0 +1,6 @@
+C:\Users\muhammed\Desktop\odev_son\vucut_kıitle_indeksi_hesaplama\vucut_kıitle_indeksi_hesaplama\bin\Debug\vucut_kıitle_indeksi_hesaplama.exe.config
+C:\Users\muhammed\Desktop\odev_son\vucut_kıitle_indeksi_hesaplama\vucut_kıitle_indeksi_hesaplama\bin\Debug\vucut_kıitle_indeksi_hesaplama.exe
+C:\Users\muhammed\Desktop\odev_son\vucut_kıitle_indeksi_hesaplama\vucut_kıitle_indeksi_hesaplama\bin\Debug\vucut_kıitle_indeksi_hesaplama.pdb
+C:\Users\muhammed\Desktop\odev_son\vucut_kıitle_indeksi_hesaplama\vucut_kıitle_indeksi_hesaplama\obj\Debug\vucut_kıitle_indeksi_hesaplama.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\odev_son\vucut_kıitle_indeksi_hesaplama\vucut_kıitle_indeksi_hesaplama\obj\Debug\vucut_kıitle_indeksi_hesaplama.exe
+C:\Users\muhammed\Desktop\odev_son\vucut_kıitle_indeksi_hesaplama\vucut_kıitle_indeksi_hesaplama\obj\Debug\vucut_kıitle_indeksi_hesaplama.pdb
